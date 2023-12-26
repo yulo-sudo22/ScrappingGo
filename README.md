@@ -1,0 +1,3 @@
+# Scrapping Go 
+
+`go run .` 
